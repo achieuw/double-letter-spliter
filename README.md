@@ -1,2 +1,2 @@
 # double-letter-spliter
-Splits words with double letters
+Split words with double letters
